@@ -18,6 +18,8 @@ bash /home/USERNAME/redshift_increment.sh +
 
 You will also need a copy of the [pimoroni skywriter library](https://github.com/pimoroni/skywriter-hat).
 
+##Connections
+
 Skywriter  | Arduino
 -----------|--------------
 VCC        | 5V
