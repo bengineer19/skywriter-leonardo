@@ -9,11 +9,11 @@ Due to the fact that a lot of the keyboard shortcuts used are ones I have define
 Linux redshift users may find the *redshift_increment.sh* script useful, so I have included it. 
 To use it, setup a decrease keyboard shortcut for the following:
 ```bash
-bash /home/USERNAME/redshift_increment.sh -
+bash /home/$USER/redshift_increment.sh -
 ```
 and an increase shortcut for this:
 ```bash
-bash /home/USERNAME/redshift_increment.sh +
+bash /home/$USER/redshift_increment.sh +
 ```
 
 You will also need a copy of the [pimoroni skywriter library](https://github.com/pimoroni/skywriter-hat).
